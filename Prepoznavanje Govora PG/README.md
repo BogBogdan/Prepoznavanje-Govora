@@ -1,4 +1,4 @@
-# Prepoznavanje-Govora-PG-projekat
+# Prepoznavanje-Govora
 
 This project focuses on developing a speech recognition system that utilizes Convolutional Neural Networks (CNN) to track spoken words and, based on their identification, generates visual representations of corresponding objects such as circles, squares, cubes, and more. By leveraging CNN's capabilities, the system accurately identifies spoken words and maps them to specific objects in real-time. This innovative approach not only enhances speech recognition accuracy but also provides a visual context, enabling users to interact with the system intuitively.
 
